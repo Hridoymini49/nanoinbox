@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.input-container {
+    margin-bottom: 20px;
+}
+
+.input-container input,
+.input-container button {
+    padding: 10px;
+    margin: 5px;
+}
+
+.data-item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+}

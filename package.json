@@ -1,0 +1,9 @@
+{
+  "name": "sms-fetcher",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'No build required'",
+    "dev": "echo 'No dev server'"
+  },
+  "dependencies": {}
+}
